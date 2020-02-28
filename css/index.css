@@ -1,0 +1,8 @@
+.carousel-item img {
+    height: 574px;
+    filter: brightness(90%);
+  }
+
+  .carousel-item h1 {
+    margin-bottom: 50px;
+  }
